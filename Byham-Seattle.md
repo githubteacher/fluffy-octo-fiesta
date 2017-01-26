@@ -2,5 +2,5 @@
 
 ## Places to go
 
-Woodland Park Zoo
+Woodland Park Zoo (A great, world class zoo.)
 Santorini's Pizza
