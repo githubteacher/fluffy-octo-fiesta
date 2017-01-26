@@ -1,7 +1,9 @@
 # Los Angeles, CA
 
 ###Places to go
-LaBrea tarpits
+- LaBrea tarpits
+- Griffith Park
 
 ###Food to eat
-tacos and chili fries
+- Tacos 
+- Chili fries
