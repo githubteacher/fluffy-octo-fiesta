@@ -11,3 +11,4 @@
 ### Trying not to get mugged or car jacked
     - avoid the outdoors
     - stay home
+    or not
