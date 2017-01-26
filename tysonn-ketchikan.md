@@ -7,6 +7,6 @@
 
 ## Food to eat
 
-- Grilled Salmon
+- Halibut
 - Smoked salmon
 - Salmon berries
