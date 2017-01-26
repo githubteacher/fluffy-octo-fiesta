@@ -5,3 +5,4 @@
 
 ### Food to eat
 - Roast duck
+- Su Shi Jin (for vegans)
