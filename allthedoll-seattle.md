@@ -1,4 +1,4 @@
 ## Seattle Recommendationz
 
-- Item 1
-- Item 2
+- Hot Cakes Molten Cakery, Ballard
+- Taco Bell :taco:
